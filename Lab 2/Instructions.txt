@@ -1,0 +1,12 @@
+Instructions
+Download the files bigArrays.cpp, and FillUp.h and study the code.
+
+The program reads in an integer from the user and creates an array of that many elements. 
+It then call the fillUp function found in FillUp.h, which populates each cell of the array with an integer value corresponding to the index. 
+The code then calls the printPos function which prints out the value of the last element of the array.
+
+The code works correctly for small array sizes. Your task is to make it work for array sizes of more than 10 million elements.
+ You should not modify the FillUp.h file, because you will not be uploading that file.
+
+Modify the bigArrays.cpp file to meet the requirements above, and upload it for evaluation. 
+It must use the fillUp function to get populated, and the printPos function to produce the output.

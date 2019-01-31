@@ -1,0 +1,9 @@
+Download the files pointerArithmetic.cpp, and Input.h and study the code.
+
+The Input.h file only contains a declaration of a variable a, which is initialized to 2002.
+
+The program takes that value, does some pointer operations, and prints out the value 7.
+
+It is crucial that you understand the operations and the effects they are having.
+
+Your task is to provide a value for a that will result in the program outputting 5. Modify the Input.h file and upload it here
